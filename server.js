@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({
     extended: true
 }));
 
-app.get('/partners',function(req,res){
+app.get('/',function(req,res){
   res.render("index");
 })
 
