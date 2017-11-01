@@ -1,5 +1,5 @@
 body{
-  background: #910404;
+  background: #20547D;
   color:white;
   text-align: center;
 }
@@ -13,7 +13,9 @@ th{
 .number{
   width: 10%;
 }
-
+.gold{
+  background: #8a8630;
+}
 .loader {
   position: fixed;
   left: 45vw;

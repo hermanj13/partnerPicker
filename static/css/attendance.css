@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: #910404;
+  background: #20547D;
   color:white;
 }
 
@@ -93,7 +93,7 @@ tr{
   pointer-events: none;
 }
 .form-switch input:checked + i {
-  background-color: #4BD763;
+  background-color: #20547D;
 }
 .form-switch input:checked + i::before {
   transform: translate3d(18px, 2px, 0) scale3d(0, 0, 0);
